@@ -1,0 +1,20 @@
+{
+  "name": "read-koa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "jinzhan.ye@foxmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "jsonwebtoken": "^8.4.0",
+    "koa": "^2.6.2",
+    "koa-body": "^4.0.3",
+    "koa-log4": "^2.1.0",
+    "koa-router": "^7.0.1",
+    "koa-static": "^5.0.0",
+    "lodash": "^4.17.11"
+  }
+}
